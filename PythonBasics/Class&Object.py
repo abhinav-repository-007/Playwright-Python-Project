@@ -11,4 +11,6 @@ class Calculator:
 obj = Calculator()
 obj.getData()
 print("{}{}".format("I am a class variable = ", obj.num))
+print("I am added just to see whether, update code pushed to Remote repo.")
+print("This is to avoid merge")
 
